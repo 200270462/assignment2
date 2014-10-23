@@ -1,13 +1,15 @@
 ﻿
 #header h1 {
-	background: url(../img/logo.png) no-repeat;
-	width: 95px;
-	height: 95px;	
-	margin: 0;
-	
-	}	
+    background-image: url('../img/logo.png') no-repeat;
+    width: 95px;
+    height: 95px;
+    margin: 0;
+}	
 
 ul#playerStats {
+    margin-right:500px;
+    margin-left:500px;
+    background-color:red;
     list-style-type: none;
     padding: 0;
     margin: 5px;
@@ -15,7 +17,7 @@ ul#playerStats {
 
 #playerBet
 {
- padding-left: 0px;
+    padding-left: 0px;
 	position: absolute;
 	margin-left: 15px;
 	margin-top: 2px;
@@ -33,7 +35,7 @@ ul#playerStats {
 
 #BetButton
 {
-	margin:80px;
+ 	margin:80px;
 	padding:20px; 
 	
   
@@ -41,18 +43,21 @@ ul#playerStats {
 
 
 #result{
-    margin-bottom : 600px;
+     margin-bottom : 600px;
     margin-left: 20px;
 }
 
 #winOrLose p
 {
+    margin-right:500px;
+    margin-left:500px;
+    background-color:gold;
     margin-top : -350px;
 }
 
 .inner #img2,#img3
 {
-    padding-left: 50px;
+     padding-left: 50px;
 }
 
 .inner #image2
@@ -67,7 +72,7 @@ ul#playerStats {
 
 #betEntry
 {
-	padding-left: 0px;
+ 	padding-left: 0px;
 	position: absolute;
 	margin-left: 475px;
 	margin-top: 10px;
@@ -88,6 +93,13 @@ ul#playerStats {
 	margin-left: 660px;
 	position: absolute;
 }
-
+body {
+    background-image: url('../img/bg1.jpg');
+}
+#banner{
+    margin-right:500px;
+    margin-left:500px;
+    background-color:darkslateblue;
+}
 
 
