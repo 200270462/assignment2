@@ -1,0 +1,93 @@
+﻿
+#header h1 {
+	background: url(../img/logo.png) no-repeat;
+	width: 95px;
+	height: 95px;	
+	margin: 0;
+	
+	}	
+
+ul#playerStats {
+    list-style-type: none;
+    padding: 0;
+    margin: 5px;
+}
+
+#playerBet
+{
+ padding-left: 0px;
+	position: absolute;
+	margin-left: 15px;
+	margin-top: 2px;
+	width-left: 20px;
+    height: 15px;
+    width : 50px;
+}
+
+#button
+{
+    margin-bottom: -280px;    
+    padding-left: 150px;
+
+}
+
+#BetButton
+{
+	margin:80px;
+	padding:20px; 
+	
+  
+}
+
+
+#result{
+    margin-bottom : 600px;
+    margin-left: 20px;
+}
+
+#winOrLose p
+{
+    margin-top : -350px;
+}
+
+.inner #img2,#img3
+{
+    padding-left: 50px;
+}
+
+.inner #image2
+{
+    padding-left: 57px;
+}
+
+.inner #image3
+{
+    padding-left: 50px;
+}
+
+#betEntry
+{
+	padding-left: 0px;
+	position: absolute;
+	margin-left: 475px;
+	margin-top: 10px;
+	width-left: 20px;
+	}
+	
+
+.jackpot
+{
+	
+	margin-left: 530px;
+	margin-top: 110px;
+}
+
+.playerMoney
+{
+	margin-top: 110px;
+	margin-left: 660px;
+	position: absolute;
+}
+
+
+
